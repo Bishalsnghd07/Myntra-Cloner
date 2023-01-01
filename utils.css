@@ -1,0 +1,45 @@
+.flex{
+    display:flex;
+}
+
+.items-center{
+ align-items: center;
+}
+
+.justify-center{
+ justify-items: center;
+}
+
+.space-between{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.profile{
+    padding: 12px;
+    width: 20px;
+}
+
+.wishlist{
+    padding: 12px;
+    width: 20px;
+}
+
+.bag{
+    padding: 12px;
+    width: 20px;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+    font-weight: bolder;
+}
+
